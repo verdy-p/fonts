@@ -6,7 +6,7 @@ max_value: 1
 default_value: 0.5
 precision: -1
 fallback {
-  name: "Roman"
+  name: "Sans"
   value: 0
 }
 fallback {
