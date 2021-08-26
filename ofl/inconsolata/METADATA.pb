@@ -26,7 +26,3 @@ axes {
   min_value: 200.0
   max_value: 900.0
 }
-source {
-  repository_url: "https://github.com/aaronbell/Inconsolata"
-  commit: "033b52bddac2861aeebdb701cf39d0dd13bd854d"
-}
