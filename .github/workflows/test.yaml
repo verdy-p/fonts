@@ -59,7 +59,7 @@ jobs:
 
       - name: Check file existence
         id: check_files
-        uses: andstor/file-existence-action@076e0072799f4942c8bc574a82233e1e4d13e9d6 # v3.0.0
+        uses: step-security/file-existence-action@e49061d3e43a16445f2518f344fca0e65417383a # v3.0.0
         with:
           files: "out"
 
@@ -113,7 +113,7 @@ jobs:
       
       - name: Check file existence
         id: check_files
-        uses: andstor/file-existence-action@076e0072799f4942c8bc574a82233e1e4d13e9d6 # v3.0.0
+        uses: step-security/file-existence-action@e49061d3e43a16445f2518f344fca0e65417383a # v3.0.0
         with:
           files: "out"
 
